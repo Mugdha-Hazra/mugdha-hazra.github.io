@@ -1,0 +1,24 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgrey;
+}
+
+h1 {
+    color: rgb(219, 216, 34);
+    font-size: 23px;
+}
+
+p {
+    color: #130222;
+    font-size: 16px;
+}
+
+.title {
+    color: rgb(253, 247, 255);
+}
+
+img {
+    float: left;
+    max-width: 900px;
+    margin-right: 40px;
+}
